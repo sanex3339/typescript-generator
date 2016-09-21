@@ -30,4 +30,4 @@ if (typeof module !== 'undefined' && module.exports) {
     exports = module.exports = __generator;
 }
 
-exports.__awaiter = __generator;
+exports.__generator = __generator;

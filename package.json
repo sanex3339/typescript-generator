@@ -1,6 +1,6 @@
 {
   "name": "typescript-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript `__generator` helper exported as module",
   "main": "index.js",
   "scripts": {
